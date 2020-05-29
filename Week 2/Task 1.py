@@ -1,3 +1,5 @@
+#Cравнение предложений
+
 import re
 import collections
 from scipy.spatial import distance
